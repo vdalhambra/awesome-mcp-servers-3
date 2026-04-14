@@ -150,6 +150,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Fibery](https://github.com/Fibery-inc/fibery-mcp-server)** - Perform queries and entity operations in your [Fibery](https://fibery.io) workspace.
 - **[Find-A-Domain](https://findadomain.dev/mcp)** - Domain availability checking and WHOIS lookup tools.
 - **[Financial Datasets](https://github.com/financial-datasets/mcp-server)** - Stock market API made for AI agents
+- **[FinanceKit MCP](https://github.com/vdalhambra/financekit-mcp)** - Real-time stock market intelligence with 17 tools — quotes, technical analysis (RSI/MACD/Bollinger/ADX) with structured BULLISH/BEARISH verdicts, portfolio risk metrics (VaR, Sharpe, Sortino, Beta), crypto, and options chains. No API keys.
 - **[Firecrawl](https://github.com/mendableai/firecrawl-mcp-server)** - Extract web data with [Firecrawl](https://firecrawl.dev)
 - **[Fireproof](https://github.com/fireproof-storage/mcp-database-server)** - Immutable ledger database with live synchronization
 - **[FlyonUI](https://github.com/themeselection/flyonui-mcp)** - Build modern, production-ready UI blocks, components, and landing pages in minutes.
@@ -262,6 +263,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[ScreenshotMCP](https://github.com/upnorthmedia/ScreenshotMCP/)** - Capture website screenshots including full page, elements, and device specific sizes.
 - **[ScreenshotOne](https://github.com/screenshotone/mcp/)** - Render website screenshots with [ScreenshotOne](https://screenshotone.com/)
 - **[Semgrep](https://github.com/semgrep/mcp)** - Enable AI agents to secure code with [Semgrep](https://semgrep.dev/).
+- **[SiteAudit MCP](https://github.com/vdalhambra/siteaudit-mcp)** - Full website audits in 11 tools — SEO score, Lighthouse performance, security headers, WCAG accessibility, Schema.org validation, and competitor site comparisons. No API keys.
 - **[Sentry](https://github.com/getsentry/sentry-mcp)** - Official MCP server for [Sentry](https://sentry.io).
 - **[SingleStore](https://github.com/singlestore-labs/mcp-server-singlestore)** - Interact with the SingleStore database platform
 - **[SlideSpeak](https://github.com/SlideSpeak/slidespeak-mcp)** - Create presentations and PowerPoints using AI and SlideSpeak MCP
